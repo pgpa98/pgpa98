@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pgpa98 
-- 👀 I’m interested in everything Data Science, Machine Learning and AI
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in everything Data Science, Machine Learning, AI and Databases
+- 💞️ I’m looking to collaborate on Interesting Data driven projects!
 - 📫 How to reach me pgachar@bu.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I say the Z-A faster than the A-Z
