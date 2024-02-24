@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on Interesting Data driven projects!
 - 📫 How to reach me pgachar@bu.edu
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I say the Z-A faster than the A-Z
+
 
 <!---
 pgpa98/pgpa98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
